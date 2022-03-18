@@ -1,7 +1,7 @@
 # CSE_406_Lab_Project
 Contains the report and code (my part) of Computer Security sessional project
 
-```
-check out the report at...
-```
-[check out the report](./report/CSE_406_Project_Report.pdf)
+
+[Check out the report here](./report/CSE_406_Project_Report.pdf)
+
+
